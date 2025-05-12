@@ -12,7 +12,7 @@ A lightweight, efficient, and secure Python-based password generator that allows
 
 ## 🖼️ Preview
 
-<!-- Add a screenshot named `screenshot.png` in your repo for this to render -->
+<!-- Add a screenshot named `screenshot.png` in your r>
 
 ## 🛠️ Technologies Used
 
