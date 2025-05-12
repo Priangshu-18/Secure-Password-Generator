@@ -23,3 +23,4 @@ A lightweight, efficient, and secure Python-based password generator that allows
    ```bash
    git clone https://github.com/Priangshu-18/Secure-Password-Generator.git
    cd Secure-Password-Generator
+   run the project in teh terminal
