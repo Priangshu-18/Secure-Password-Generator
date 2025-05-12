@@ -12,7 +12,6 @@ A lightweight, efficient, and secure Python-based password generator that allows
 
 ## 🖼️ Preview
 
-<!-- Add a screenshot named `s
 
 ## 🛠️ Technologies Used
 
