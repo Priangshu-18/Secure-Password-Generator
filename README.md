@@ -10,9 +10,6 @@ A lightweight, efficient, and secure Python-based password generator that allows
 - One-click copy to clipboard
 - Lightweight and fast
 
-## 🖼️ Preview
-
-
 ## 🛠️ Technologies Used
 
 - Python 3.x
