@@ -1,26 +1,20 @@
-# 🔐 Secure Password Generator
+# Secure Password Generator
 
-A lightweight, efficient, and secure Python-based password generator that allows users to create strong, random passwords of customizable lengths. Perfect for protecting your online accounts and enhancing your digital security.
+A command-line password generator with customizable rules for length, character sets, and exclusions.
 
-## 🚀 Features
+## Features
 
-- Generate strong passwords of any length
-- Includes uppercase, lowercase, digits, and special characters
-- Simple and easy-to-use GUI using Tkinter
-- One-click copy to clipboard
-- Lightweight and fast
+- Configurable length and complexity (uppercase, lowercase, digits, symbols)
+- Option to exclude ambiguous characters (O, 0, l, 1)
+- Batch generation for multiple passwords
+- Password strength indicator
 
-## 🛠️ Technologies Used
+## Tech Stack
 
-- Python 3.x
-- Tkinter (for GUI)
-- `random` and `string` modules (for password generation)
-- `pyperclip` (to copy password to clipboard)
+Python, `secrets` module (cryptographically secure)
 
-## 📦 Installation
+## Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Priangshu-18/Secure-Password-Generator.git
-   cd Secure-Password-Generator
-   run the project in teh terminal
+```bash
+python password_generator.py
+```
